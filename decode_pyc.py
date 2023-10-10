@@ -28,7 +28,7 @@ def decompile_pyc_files(dir_path, error_log_file):
 
 # 使用命令行参数指定要反编译的项目目录
 
-// root/exploit-tools/python/pyc_decode/usr/local/var/www/html
+# root/exploit-tools/python/pyc_decode/usr/local/var/www/html
 parser = argparse.ArgumentParser()
 parser.add_argument('dir_path', help='the directory path to decompile')
 args = parser.parse_args()
