@@ -1,3 +1,4 @@
+```html
 <svg/onload="
 var pages = [window.location.href];
 console.log(pages);
@@ -39,3 +40,4 @@ delete window[callbackName];
 };
 }
 ">
+```
